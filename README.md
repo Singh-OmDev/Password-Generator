@@ -12,7 +12,6 @@ A simple and secure password generator built using **HTML, CSS, and JavaScript**
 
 ## 📸 Preview
 ![Password Generator](images/screenshot.png)  
-*(Add a screenshot of your project here)*
 
 ## 📂 Technologies Used
 - **HTML**
@@ -26,7 +25,7 @@ A simple and secure password generator built using **HTML, CSS, and JavaScript**
 
 ## 🌐 Live Demo
 [🔗 Click here to try it online](https://Singh-OmDev.github.io/password-generator/)  
-*(Enable GitHub Pages to activate this link.)*
+
 
 ## 🛠️ Setup & Installation
 To run this project locally:
