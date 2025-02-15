@@ -1,5 +1,6 @@
 # Password-Generator
  # 🔐 Password Generator
+  click here to vist hosted link  - https://password-generator-277.netlify.app/
 
 A simple and secure password generator built using **HTML, CSS, and JavaScript**. It generates strong random passwords with uppercase, lowercase, numbers, and symbols.
 
